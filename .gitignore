@@ -9,3 +9,8 @@ venv/
 
 # Ignore Power BI auto-backups
 *.tmp
+
+
+.env
+__pycache__/
+*.pyc
